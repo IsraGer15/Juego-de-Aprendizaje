@@ -443,7 +443,7 @@ shape = SubResource("RectangleShape2D_0kqdd")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=1759073089]
 position = Vector2(0, -1)
 sprite_frames = SubResource("SpriteFrames_vfppx")
-animation = &"Idle_Down_Side_Right"
+animation = &"Walk_Up_Side_Left"
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D" unique_id=971436927]
 zoom = Vector2(5, 5)
